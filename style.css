@@ -15,3 +15,11 @@ p span {
 #footer {
     text-align:center
 }
+
+button#continue{
+    width: 100%
+}
+
+.forgot-password{
+    float: right;
+}
